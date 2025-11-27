@@ -1,3 +1,14 @@
 body {
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
+}
+
+#thisis {
+    border-radius: 15px;
+    border-color: rgb(0, 0, 0);
+    border-width: 15px;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+    text-size-adjust: inherit;
+    float: middle;
 }
