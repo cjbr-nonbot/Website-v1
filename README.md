@@ -4,4 +4,4 @@ this project is for my first version that will be publicly releasing for my webs
 
 # About me
 
-im a highschool student studying computes sciences and web development
+im a highschool student studying computes sciences and web developmen
